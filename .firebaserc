@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "montravel-bd84c": {
+      "hosting": {
+        "montravel": [
+          "montravel-bd84c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "montravel-bd84c"
+  }
+}

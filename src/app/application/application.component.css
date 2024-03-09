@@ -1,0 +1,27 @@
+.display-3{
+ 
+ font-family: "Racing Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 85px;
+}
+.jumbotron{
+ background-image: url("../../assets/appbg.png") ;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  display: flex;
+ 
+
+  height: 100vh;
+}
+.container{
+background-color: #6A6666;
+
+}
+.output-field {
+ background-color: #f0f0f0; /* Light background color */
+ padding: 10px; /* Adjust padding as needed */
+ border-radius: 5px; /* Rounded corners */
+ height: 200px;
+}

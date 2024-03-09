@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "montravel",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "asia-east1"
+      }
+    }
+  ]
+}
